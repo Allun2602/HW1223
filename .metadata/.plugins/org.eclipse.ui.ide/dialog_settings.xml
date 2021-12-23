@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\eclipse-workspace\HW1223\test_p55"/>
+			<item value="D:\eclipse-workspace\HW1223\test_p52"/>
+			<item value="D:\eclipse-workspace\HW1223\test_p50"/>
+			<item value="D:\eclipse-workspace\HW1223\test_p48"/>
+			<item value="D:\eclipse-workspace\HW1223\test_p47"/>
+			<item value="D:\eclipse-workspace\HW1223\test_p46"/>
+			<item value="D:\eclipse-workspace\HW1223\test_p45"/>
+			<item value="D:\eclipse-workspace\HW1223\test__p26"/>
+			<item value="D:\eclipse-workspace\HW1223\test__p24"/>
+			<item value="D:\eclipse-workspace\HW1223\test__p21"/>
+			<item value="D:\eclipse-workspace\HW1223\test__p19"/>
+			<item value="D:\eclipse-workspace\HW1223\test__p14"/>
+			<item value="D:\eclipse-workspace\HW1223\test__p10"/>
+			<item value="D:\eclipse-workspace\HW1223\test__p8"/>
+			<item value="D:\eclipse-workspace\HW1223\test__p6"/>
+			<item value="D:\eclipse-workspace\HW1223\test_17"/>
+		</list>
+	</section>
+</section>

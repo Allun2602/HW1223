@@ -1,0 +1,26 @@
+import java.io.PrintWriter;
+
+public class Sample5_7 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		try {
+			FileWriter fw = new FileWriter("test1.txt");
+			PrintWriter pw = new PriterWriter(new BufferedReader(fw));
+			
+			pw.println("Hello!");
+			pw.println("GoodBye!");
+			
+			pw.close();
+			
+			System.out.println("資料已經寫入檔案了");
+		}
+		
+		catch(IOException e) {
+			System.out.println("輸出入錯誤");
+		}
+
+	}
+
+}
